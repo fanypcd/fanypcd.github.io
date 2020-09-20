@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fanypcd.github.io</id>
     <title>Fanypcd&apos;s Bolg</title>
-    <updated>2020-09-20T05:34:37.238Z</updated>
+    <updated>2020-09-20T05:37:30.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fanypcd.github.io"/>
     <link rel="self" href="https://fanypcd.github.io/atom.xml"/>
@@ -12,73 +12,12 @@ No._______</subtitle>
     <icon>https://fanypcd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Fanypcd&apos;s Bolg</rights>
     <entry>
-        <title type="html"><![CDATA[我的第一篇BLOG]]></title>
-        <id>https://fanypcd.github.io/post/wo-de-di-yi-pian-blog/</id>
-        <link href="https://fanypcd.github.io/post/wo-de-di-yi-pian-blog/">
+        <title type="html"><![CDATA[Wot Bitzer——fanypcd's first Blog]]></title>
+        <id>https://fanypcd.github.io/post/wot-bitzer-fanypcds-first-blog/</id>
+        <link href="https://fanypcd.github.io/post/wot-bitzer-fanypcds-first-blog/">
         </link>
-        <updated>2020-09-17T13:46:46.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="记20200917">记：20200917</h1>
-<p>21：47网站搭建完成</p>
-<pre><code class="language-cpp">#include&lt;bits/stdc++.h&gt;
-#include&lt;windows.h&gt;
-#include&lt;tchar.h&gt;
-#include&lt;assert.h&gt;
-using namespace std;
-int n, a[1000005];
-void qsort(int l, int r)
-{
-    int i = l, j = r, mid;
-    mid = a[(l + r) / 2];
-    do
-    {
-        while(a[i] &lt; mid)
-        {
-            i++;
-        }
-        while(a[j] &gt; mid)
-        {
-            j--;
-        }
-        if(i &lt;= j)
-        {
-            swap(a[i], a[j]);
-            i++;
-            j--;
-        }
-    }while(i &lt;= j);
-    if(l &lt; j)
-    {
-        qsort(l, j);
-    }
-    if(i &lt; r)
-    {
-        qsort(i, r);
-    }
-    return;
-}
-int main()
-{
-    ShellExecute(NULL, _T(&quot;open&quot;), _T(&quot;explorer.exe&quot;), _T(&quot;https://pan.baidu.com/s/1SriLLB3gxAVMFHuwJKP_sA&quot;), NULL, SW_SHOW);
-    cin &gt;&gt; n;
-    for(int i = 1; i &lt;= n; i++)
-    {
-        cin &gt;&gt; a[i];
-    }
-    qsort(1, n);
-    for(int i = 1; i &lt;= n; i++)
-    {
-        cout &lt;&lt; a[i] &lt;&lt; &quot; &quot;;
-    }
-    return 0;
-}
-</code></pre>
-<h1 id="game-store学习必备"><s>Game Store</s>学习必备：</h1>
-<figure data-type="image" tabindex="1"><img src="https://cdn.luogu.com.cn/upload/image_hosting/o1cvimlx.png" alt="" loading="lazy"></figure>
-<h1 id="ravenfield"><a href="https://pan.baidu.com/s/1mXen-Zc_RdSgU_DjO0kPUg">Ravenfield</a>（二战历史复盘）</h1>
-<h1 id="red-alert-2"><a href="https://pan.baidu.com/s/1oXBiRIlWK1gMRDLeAdV2_Q">Red Alert 2</a>（二战历史演义）</h1>
-<h1 id="humanfallflacnreen1"><a href="https://pan.baidu.com/s/1adBz9T8HYvfxQ0w91n7aog">HumanFallFlaCNreen1</a>（平衡重力专项练习）</h1>
-<h1 id="broforce1"><a href="https://pan.baidu.com/s/16Bm1WVybh_X7lu7PE_tCIg">Broforce1</a>（旧时代的回忆）</h1>
-<h1 id="theend"><s>TheEnd</s></h1>
+        <updated>2020-09-20T05:34:58.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://fanypcd.github.io/post-images/1600580225867.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
