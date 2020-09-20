@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://fanypcd.github.io</id>
+    <id>https://https://fanypcd.github.io/</id>
     <title>Fanypcd&apos;s Bolg</title>
-    <updated>2020-09-20T05:47:12.637Z</updated>
+    <updated>2020-09-20T05:48:37.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://fanypcd.github.io"/>
+    <link rel="alternate" href="https://https://fanypcd.github.io/"/>
     <link rel="self" href="https://https://fanypcd.github.io/atom.xml"/>
     <subtitle>Date:_____
 No._______</subtitle>
@@ -17,7 +17,7 @@ No._______</subtitle>
         <link href="https://https://fanypcd.github.io/post/wot-bitzer-fanypcds-first-blog/">
         </link>
         <updated>2020-09-20T05:34:58.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://https://fanypcd.github.io/post-images/1600580225867.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://https://fanypcd.github.io//post-images/1600580225867.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
