@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fanypcd.github.io</id>
+    <title>Fanypcd</title>
+    <updated>2021-06-15T12:06:52.288Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fanypcd.github.io"/>
+    <link rel="self" href="https://fanypcd.github.io/atom.xml"/>
+    <subtitle>Fanypcd&apos;s blog</subtitle>
+    <logo>https://fanypcd.github.io/images/avatar.png</logo>
+    <icon>https://fanypcd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Fanypcd</rights>
+    <entry>
+        <title type="html"><![CDATA[My blog!]]></title>
+        <id>https://fanypcd.github.io/post/my-blog/</id>
+        <link href="https://fanypcd.github.io/post/my-blog/">
+        </link>
+        <updated>2021-06-15T09:55:59.000Z</updated>
+        <content type="html"><![CDATA[<p>Let's start a new journey together!</p>
+]]></content>
+    </entry>
+</feed>
